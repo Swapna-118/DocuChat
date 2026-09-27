@@ -4,6 +4,17 @@ DocuChat is an AI-powered PDF question-answering application that allows users t
 
 The application uses Retrieval-Augmented Generation (RAG) to retrieve relevant sections from the uploaded document before generating an answer.
 
+## Screenshots
+
+### Chat with Sources
+![Chat with Sources](screenshots/chat-sources.jpg)
+
+### Chat History
+![Chat History](screenshots/chat-history.jpg)
+
+### Empty State
+![Empty State](screenshots/empty-state.jpg)
+
 ## Features
 
 - Upload PDF documents
